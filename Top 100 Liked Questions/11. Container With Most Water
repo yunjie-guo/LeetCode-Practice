@@ -9,10 +9,26 @@ Note: You may not slant the container and n is at least 2.
 
 ## Ideas
 ```
-Brute Force, directly traverse  
-Hash Table, unordered map to index 
+Two pointers: start with the largest width
 ```
 
 ## Solutions
 ```
+class Solution {
+public:
+    int maxArea(vector<int>& height) {
+        int maxarea  = 0;
+        int distance = height.size() - 1;
+        int l = 0;
+        int r = height.size()-1;
+        while (l<r){
+            maxarea = max(maxarea,min(height[l],height[r])*(r-l));
+            if (height[l]<height[r]){++l;}
+            else{--r;}
+        }
+        return maxarea;
+    }
+};
+// Time Complexity: O(n)
+// Proof: https://leetcode.com/problems/container-with-most-water/discuss/6089/Anyone-who-has-a-O(N)-algorithm/7268
 ```
