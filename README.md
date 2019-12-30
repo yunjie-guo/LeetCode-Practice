@@ -13,6 +13,11 @@
 |11|[Container With Most Water.md][p11]                        |[C++][p11sol]    |Medium       |Two Pointers
 |15|[3Sum][p15]                                                |[C++][p15sol]    |Medium       |Two Pointers
 |17|[Letter Combinations of a Phone Number][p17]               |[C++][p17sol]    |Medium       |Recursion
+|19|[Remove Nth Node From End of List][p19]                    |[C++][p19sol]    |Medium       |Two Pointers
+|20|[Valid Parentheses][p20]                                   |[C++][p20sol]    |Easy         |Stack
+|21|[Merge Two Sorted Lists][p21]                              |[C++][p21sol]    |Easy         |Linked List
+|22|[Generate Parentheses][p22]                                |[C++][p22sol]    |Medium       |Recursion
+|23|[Merge k Sorted Lists hard][p23]                           |[C++][p23sol]    |Hard         |Priority Queue
 
 
 
@@ -34,3 +39,13 @@
 [p15sol]: ./Top%20100%20Liked%20Questions/15.%203Sum.md
 [p17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [p17sol]: ./Top%20100%20Liked%20Questions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md
+[p19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[p19sol]: ./Top%20100%20Liked%20Questions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md
+[p20]: https://leetcode.com/problems/valid-parentheses/
+[p20sol]: ./Top%20100%20Liked%20Questions/20.%20Valid%20Parentheses.md
+[p21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[p21sol]: ./Top%20100%20Liked%20Questions/21.%20Merge%20Two%20Sorted%20Lists.md
+[p22]: https://leetcode.com/problems/generate-parentheses/
+[p22sol]: ./Top%20100%20Liked%20Questions/22.%20Generate%20Parentheses.md
+[p23]: https://leetcode.com/problems/merge-k-sorted-lists/
+[p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists%20hard.md
