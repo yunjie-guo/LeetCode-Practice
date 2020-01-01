@@ -18,6 +18,8 @@
 |21|[Merge Two Sorted Lists][p21]                              |[C++][p21sol]    |Easy         |Linked List
 |22|[Generate Parentheses][p22]                                |[C++][p22sol]    |Medium       |Recursion
 |23|[Merge k Sorted Lists hard][p23]                           |[C++][p23sol]    |Hard         |Priority Queue
+|31|[Next Permutation][p31]                                    |[C++][p31sol]    |Medium       |Array
+|32|[Longest Valid Parentheses][p32]                           |[C++][p32sol]    |Hard         |Dynamic Programming
 
 
 
@@ -49,3 +51,7 @@
 [p22sol]: ./Top%20100%20Liked%20Questions/22.%20Generate%20Parentheses.md
 [p23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists%20hard.md
+[p31]: https://leetcode.com/problems/next-permutation/
+[p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation%20medium.md
+[p32]: https://leetcode.com/problems/longest-valid-parentheses/
+[p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses%20hard.md
