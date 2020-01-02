@@ -50,8 +50,8 @@
 [p22]: https://leetcode.com/problems/generate-parentheses/
 [p22sol]: ./Top%20100%20Liked%20Questions/22.%20Generate%20Parentheses.md
 [p23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists%20hard.md
+[p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists.md
 [p31]: https://leetcode.com/problems/next-permutation/
-[p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation%20medium.md
+[p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation.md
 [p32]: https://leetcode.com/problems/longest-valid-parentheses/
-[p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses%20hard.md
+[p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses.md
