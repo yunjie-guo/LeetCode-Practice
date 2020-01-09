@@ -10,7 +10,7 @@
 |4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
 |5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
 |10|[Regular Expression Matching][p10]                             |[C++][p10sol]    |Hard         |Dynamic Programming
-|11|[Container With Most Water.md][p11]                            |[C++][p11sol]    |Medium       |Two Pointers
+|11|[Container With Most Water][p11]                               |[C++][p11sol]    |Medium       |Two Pointers
 |15|[3Sum][p15]                                                    |[C++][p15sol]    |Medium       |Two Pointers
 |17|[Letter Combinations of a Phone Number][p17]                   |[C++][p17sol]    |Medium       |Recursion
 |19|[Remove Nth Node From End of List][p19]                        |[C++][p19sol]    |Medium       |Two Pointers
