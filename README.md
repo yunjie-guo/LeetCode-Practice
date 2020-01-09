@@ -4,30 +4,30 @@
 
 | # | Problem | Solution | Difficulty | Related Topics/Ideas |
 |---| ------- | -------- | ---------- | -------------- |
-|1|[Two Sum][p1]                                               |[C++][p1sol]     |Easy         |Hash Table
-|2|[Add Two Numbers][p2]                                       |[C++][p2sol]     |Medium       |Linked List
-|3|[Longest Substring Without Repeating Characters][p3]        |[C++][p3sol]     |Medium       |Sliding Window
-|4|[Median of Two Sorted Arrays][p4]                           |[C++][p4sol]     |Hard         |Binary Search
-|5|[Longest Palindromic Substring][p5]                         |[C++][p5sol]     |Medium       |Dynamic Programming
-|10|[Regular Expression Matching][p10]                         |[C++][p10sol]    |Hard         |Dynamic Programming
-|11|[Container With Most Water.md][p11]                        |[C++][p11sol]    |Medium       |Two Pointers
-|15|[3Sum][p15]                                                |[C++][p15sol]    |Medium       |Two Pointers
-|17|[Letter Combinations of a Phone Number][p17]               |[C++][p17sol]    |Medium       |Recursion
-|19|[Remove Nth Node From End of List][p19]                    |[C++][p19sol]    |Medium       |Two Pointers
-|20|[Valid Parentheses][p20]                                   |[C++][p20sol]    |Easy         |Stack
-|21|[Merge Two Sorted Lists][p21]                              |[C++][p21sol]    |Easy         |Linked List
-|22|[Generate Parentheses][p22]                                |[C++][p22sol]    |Medium       |Recursion
-|23|[Merge k Sorted Lists hard][p23]                           |[C++][p23sol]    |Hard         |Priority Queue
-|31|[Next Permutation][p31]                                    |[C++][p31sol]    |Medium       |Array
-|32|[Longest Valid Parentheses][p32]                           |[C++][p32sol]    |Hard         |Dynamic Programming
-|33|                          |    |         |
-|34|                          |    |         |
-|39|                          |    |         |
-|41|                          |    |         |
-|42|                          |    |         |
-|46|                          |    |         |
-|48|                          |    |         |
-|49|                          |    |         |
+|1|[Two Sum][p1]                                                   |[C++][p1sol]     |Easy         |Hash Table
+|2|[Add Two Numbers][p2]                                           |[C++][p2sol]     |Medium       |Linked List
+|3|[Longest Substring Without Repeating Characters][p3]            |[C++][p3sol]     |Medium       |Two Pointers/Hash Table
+|4|[Median of Two Sorted Arrays][p4]                               |[C++][p4sol]     |Hard         |Binary Search
+|5|[Longest Palindromic Substring][p5]                             |[C++][p5sol]     |Medium       |Dynamic Programming
+|10|[Regular Expression Matching][p10]                             |[C++][p10sol]    |Hard         |Dynamic Programming
+|11|[Container With Most Water.md][p11]                            |[C++][p11sol]    |Medium       |Two Pointers
+|15|[3Sum][p15]                                                    |[C++][p15sol]    |Medium       |Two Pointers
+|17|[Letter Combinations of a Phone Number][p17]                   |[C++][p17sol]    |Medium       |Recursion
+|19|[Remove Nth Node From End of List][p19]                        |[C++][p19sol]    |Medium       |Two Pointers
+|20|[Valid Parentheses][p20]                                       |[C++][p20sol]    |Easy         |Stack
+|21|[Merge Two Sorted Lists][p21]                                  |[C++][p21sol]    |Easy         |Linked List
+|22|[Generate Parentheses][p22]                                    |[C++][p22sol]    |Medium       |Recursion
+|23|[Merge k Sorted Lists hard][p23]                               |[C++][p23sol]    |Hard         |Priority Queue
+|31|[Next Permutation][p31]                                        |[C++][p31sol]    |Medium       |Array
+|32|[Longest Valid Parentheses][p32]                               |[C++][p32sol]    |Hard         |Dynamic Programming
+|33|[Search in Rotated Sorted Array][p33]                          |[c++][p33sol]    |Medium       |Binary Search
+|34|[Find First and Last Position of Element in Sorted Array][p34] |[c++][p34sol]    |Medium       |Binary Search
+|39|[Combination Sum][p39]                                         |[c++][p39sol]    |Medium       |Hash Table
+|41|[First Missing Positive][p41]                                  |[c++][p41sol]    |Hard         |Array   
+|42|[Trapping Rain Water][p42]                                     |[c++][p42sol]    |Hard         |Two Pointers
+|46|[Permutations][p46]                                            |[c++][p46sol]    |Medium       |Backtracking
+|48|[Rotate Image][p48]                                            |[c++][p48sol]    |Medium       |Array
+|49|[Group][p49]                                                   |[c++][p49sol]    |Medium       |Hash Table
 |53|                          |    |         |
 |55|                          |    |         |
 |56|                          |    |         |
