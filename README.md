@@ -20,20 +20,20 @@
 |23|[Merge k Sorted Lists hard][p23]                               |[C++][p23sol]    |Hard         |Priority Queue
 |31|[Next Permutation][p31]                                        |[C++][p31sol]    |Medium       |Array
 |32|[Longest Valid Parentheses][p32]                               |[C++][p32sol]    |Hard         |Dynamic Programming
-|33|[Search in Rotated Sorted Array][p33]                          |[c++][p33sol]    |Medium       |Binary Search
-|34|[Find First and Last Position of Element in Sorted Array][p34] |[c++][p34sol]    |Medium       |Binary Search
-|39|[Combination Sum][p39]                                         |[c++][p39sol]    |Medium       |Hash Table
-|41|[First Missing Positive][p41]                                  |[c++][p41sol]    |Hard         |Array   
-|42|[Trapping Rain Water][p42]                                     |[c++][p42sol]    |Hard         |Two Pointers
-|46|[Permutations][p46]                                            |[c++][p46sol]    |Medium       |Backtracking
-|48|[Rotate Image][p48]                                            |[c++][p48sol]    |Medium       |Array
-|49|[Group][p49]                                                   |[c++][p49sol]    |Medium       |Hash Table
-|53|[Maximum SUbarray][p53]                                        |[c++][p53sol]    |Easy         |Array
-|55|[Jump Game][p55]                                               |[c++][p55sol]    |Medium       |Greedy
-|56|[Merge Intervals][p56]                                         |[c++][p56sol]    |Medium       |Array
-|62|[Unique Paths][p62]                                            |[c++][p62sol]    |Medium       |Dynamic Programming
-|64|[Minimum Path Sum][p64]                                        |[c++][p64sol]    |Medium       |Dynamic Programming
-|70|[Climbing Stairs][p70]                                         |[c++][p70sol]    |Easy         |Dynamic Programming
+|33|[Search in Rotated Sorted Array][p33]                          |[C++][p33sol]    |Medium       |Binary Search
+|34|[Find First and Last Position of Element in Sorted Array][p34] |[C++][p34sol]    |Medium       |Binary Search
+|39|[Combination Sum][p39]                                         |[C++][p39sol]    |Medium       |Hash Table
+|41|[First Missing Positive][p41]                                  |[C++][p41sol]    |Hard         |Array   
+|42|[Trapping Rain Water][p42]                                     |[C++][p42sol]    |Hard         |Two Pointers
+|46|[Permutations][p46]                                            |[C++][p46sol]    |Medium       |Backtracking
+|48|[Rotate Image][p48]                                            |[C++][p48sol]    |Medium       |Array
+|49|[Group][p49]                                                   |[C++][p49sol]    |Medium       |Hash Table
+|53|[Maximum SUbarray][p53]                                        |[C++][p53sol]    |Easy         |Array
+|55|[Jump Game][p55]                                               |[C++][p55sol]    |Medium       |Greedy
+|56|[Merge Intervals][p56]                                         |[C++][p56sol]    |Medium       |Array
+|62|[Unique Paths][p62]                                            |[C++][p62sol]    |Medium       |Dynamic Programming
+|64|[Minimum Path Sum][p64]                                        |[C++][p64sol]    |Medium       |Dynamic Programming
+|70|[Climbing Stairs][p70]                                         |[C++][p70sol]    |Easy         |Dynamic Programming
 |72|                          |    |         |
 |75|                          |    |         |
 |76|                          |    |         |
