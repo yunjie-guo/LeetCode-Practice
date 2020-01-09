@@ -28,12 +28,12 @@
 |46|[Permutations][p46]                                            |[c++][p46sol]    |Medium       |Backtracking
 |48|[Rotate Image][p48]                                            |[c++][p48sol]    |Medium       |Array
 |49|[Group][p49]                                                   |[c++][p49sol]    |Medium       |Hash Table
-|53|                          |    |         |
-|55|                          |    |         |
-|56|                          |    |         |
-|62|                          |    |         |
-|64|                          |    |         |
-|70|                          |    |         |
+|53|[Maximum SUbarray][p53]                                        |[c++][p53sol]    |Easy         |Array
+|55|[Jump Game][p55]                                               |[c++][p55sol]    |Medium       |Greedy
+|56|[Merge Intervals][p56]                                         |[c++][p56sol]    |Medium       |Array
+|62|[Unique Paths][p62]                                            |[c++][p62sol]    |Medium       |Dynamic Programming
+|64|[Minimum Path Sum][p64]                                        |[c++][p64sol]    |Medium       |Dynamic Programming
+|70|[Climbing Stairs][p70]                                         |[c++][p70sol]    |Easy         |Dynamic Programming
 |72|                          |    |         |
 |75|                          |    |         |
 |76|                          |    |         |
@@ -138,3 +138,32 @@
 [p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation.md
 [p32]: https://leetcode.com/problems/longest-valid-parentheses/
 [p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses.md
+[p33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[p33sol]: ./Top%20100%20Liked%20Questions/33.%20Search%20in%20Rotated%20Sorted%20Array.md
+[p34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[p34sol]: ./Top%20100%20Liked%20Questions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md
+[p39]: https://leetcode.com/problems/combination-sum/
+[p39sol]: ./Top%20100%20Liked%20Questions/39.%20Combination%20Sum.md
+[p41]: https://leetcode.com/problems/first-missing-positive/
+[p41sol]: ./Top%20100%20Liked%20Questions/41.%20First%20Missing%20Positive.md
+[p42]: https://leetcode.com/problems/trapping-rain-water/
+[p42sol]: ./Top%20100%20Liked%20Questions/42.%20Trapping%20Rain%20Water.md
+[p46]: https://leetcode.com/problems/permutations/
+[p46sol]: ./Top%20100%20Liked%20Questions/46.%20Permutations.md
+[p48]: https://leetcode.com/problems/rotate-image/
+[p48sol]: ./Top%20100%20Liked%20Questions/48.%20Rotate%20Image.md
+[p49]: https://leetcode.com/problems/group-anagrams/
+[p49sol]: ./Top%20100%20Liked%20Questions/49.%20Group%20Anagrams.md
+[p53]: https://leetcode.com/problems/maximum-subarray
+[p53sol]: ./Top%20100%20Liked%20Questions/53.%20Maximum%20Subarray.md
+[p55]: https://leetcode.com/problems/jump-game/
+[p55sol]: ./Top%20100%20Liked%20Questions/55.%20Jump%20Game.md
+[p56]: https://leetcode.com/problems/merge-intervals/
+[p56sol]: ./Top%20100%20Liked%20Questions/56.%20Merge%20Intervals.md
+[p62]: https://leetcode.com/problems/unique-paths/
+[p62sol]: ./Top%20100%20Liked%20Questions/62.%20Unique%20Paths.md
+[p64]: https://leetcode.com/problems/minimum-path-sum/
+[p64sol]: ./Top%20100%20Liked%20Questions/64.%20Minimum%20Path%20Sum.md
+[p70]: https://leetcode.com/problems/climbing-stairs/
+[p70sol]: ./Top%20100%20Liked%20Questions/70.%20Climbing%20Stairs.md
+
