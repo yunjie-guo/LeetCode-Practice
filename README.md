@@ -28,7 +28,7 @@
 |46|[Permutations][p46]                                            |[C++][p46sol]    |Medium       |Backtracking
 |48|[Rotate Image][p48]                                            |[C++][p48sol]    |Medium       |Array
 |49|[Group][p49]                                                   |[C++][p49sol]    |Medium       |Hash Table
-|53|[Maximum SUbarray][p53]                                        |[C++][p53sol]    |Easy         |Array
+|53|[Maximum Subarray][p53]                                        |[C++][p53sol]    |Easy         |Array
 |55|[Jump Game][p55]                                               |[C++][p55sol]    |Medium       |Greedy
 |56|[Merge Intervals][p56]                                         |[C++][p56sol]    |Medium       |Array
 |62|[Unique Paths][p62]                                            |[C++][p62sol]    |Medium       |Dynamic Programming
