@@ -106,10 +106,10 @@
 |739|                          |    |         |
 
 ### Contest
-| Contest   | Solve   | Rank     | Problem    |Related Topics |
-|-----------| ------- | -------- | ---------- | -------------- |
-|[Weekly 171][contest171] | 2/4 | 2279/7189 | 1317-1320 | Math/Bit Manipulation/Union Find/Dynamic Programming |
-| Weekly 172|      |  |   |  |
+| Contest                  |  Rank     | Problem    |Related Topics |
+|-----------               |  -------- | ---------- | -------------- |
+|[Weekly 171][contest171]  | 2279/7189 | 1317/1318/1319/1320 | Math/Bit Manipulation/Union Find/Dynamic Programming |
+| Weekly 172|        |   |  |
 
 
 [contest171]: https://leetcode.com/contest/weekly-contest-171
