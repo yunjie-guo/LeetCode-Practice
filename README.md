@@ -106,6 +106,16 @@
 |739|                          |    |         |
 
 ### Contest
+| Contest   | Solve   | Rank     | Problem    |Related Topics |
+|-----------| ------- | -------- | ---------- | -------------- |
+|[Weekly 171][contest171] | 2/4 | 2279/7189 | 1317-1320 | Math/Bit Manipulation/Union Find/Dynamic Programming |
+| Weekly 172|      |  |   |  |
+
+
+[contest171]: https://leetcode.com/contest/weekly-contest-171
+
+
+
 [p1]: https://leetcode.com/problems/two-sum/
 [p1sol]: ./Top%20100%20Liked%20Questions/1.%20Two%20Sum.md
 [p2]: https://leetcode.com/problems/add-two-numbers/
