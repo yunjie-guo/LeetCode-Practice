@@ -34,10 +34,10 @@
 |62|[Unique Paths][p62]                                            |[C++][p62sol]    |Medium       |Dynamic Programming
 |64|[Minimum Path Sum][p64]                                        |[C++][p64sol]    |Medium       |Dynamic Programming
 |70|[Climbing Stairs][p70]                                         |[C++][p70sol]    |Easy         |Dynamic Programming
-|72|                          |    |         |
-|75|                          |    |         |
+|72|[Edit Distance][p72]                                           |[C++][p72sol]    |Hard         |Dynamic Programming
+|75|[Sort Colors][p75]                                             |[C++][p75sol]    |Medium       |Two Pointers
 |76|                          |    |         |
-|78|                          |    |         |
+|78|[Subsets][p78]                                                 |[C++][p78sol]    |Medium       |Backtracking
 |79|                          |    |         |
 |84|                          |    |         |
 |85|                          |    |         |
@@ -176,4 +176,10 @@
 [p64sol]: ./Top%20100%20Liked%20Questions/64.%20Minimum%20Path%20Sum.md
 [p70]: https://leetcode.com/problems/climbing-stairs/
 [p70sol]: ./Top%20100%20Liked%20Questions/70.%20Climbing%20Stairs.md
+[p72]: https://leetcode.com/problems/edit-distance/
+[p72sol]: ./Top%20100%20Liked%20Questions/72.%20Edit%20Distance.md
+[p75]: https://leetcode.com/problems/sort-colors/
+[p75sol]: ./Top%20100%20Liked%20Questions/75.%20Sort%20Colors.md
 
+[p78]: https://leetcode.com/problems/subsets/
+[p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
