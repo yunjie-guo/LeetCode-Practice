@@ -177,6 +177,8 @@
 [p94sol]: ./Top%20100%20Liked%20Questions/94.%20Binary%20Tree%20Inorder%20Traversal.md
 [p96]: https://leetcode.com/problems/unique-binary-search-trees/
 [p96sol]: ./Top%20100%20Liked%20Questions/96.%20Unique%20Binary%20Search%20Trees.md
+[p98]: https://leetcode.com/problems/validate-binary-search-tree/
+[p98sol]: ./Top%20100%20Liked%20Questions/98.%20Validate%20Binary%20Search%20Tree.md
 
 [p101]: https://leetcode.com/problems/symmetric-tree/
 [p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
