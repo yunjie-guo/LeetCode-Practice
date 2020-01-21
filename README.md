@@ -45,7 +45,7 @@
 |96|[Unique Binary Search Trees][p96]                              |[C++][p96sol]    |Medium       |Dynamic Programming
 |98|[Validate Binary Search Tree][p98]                             |[C++][p98sol]    |Medium       |Recursion
 |101|[Symmetric Tree][p101]                                        |[C++][p101sol]   |Easy         |Recursion
-|102|[Binary Tree Level Order Traversal][p102]                     |[C++][p104sol]   |Medium       |Breath-first Search
+|102|[Binary Tree Level Order Traversal][p102]                     |[C++][p102sol]   |Medium       |Breath-first Search
 |104|[Maximum Depth of Binary Tree][p104]                          |[C++][p104sol]   |Easy         |Recursion
 |105|                          |    |         |
 |114|                          |    |         |
