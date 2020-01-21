@@ -36,15 +36,15 @@
 |70|[Climbing Stairs][p70]                                         |[C++][p70sol]    |Easy         |Dynamic Programming
 |72|[Edit Distance][p72]                                           |[C++][p72sol]    |Hard         |Dynamic Programming
 |75|[Sort Colors][p75]                                             |[C++][p75sol]    |Medium       |Two Pointers
-|76|                          |    |         |
+|76|[Minimum Window Substring][p76]                                |[C++][p76sol]    |Hard         |Sliding Window/Hash Table
 |78|[Subsets][p78]                                                 |[C++][p78sol]    |Medium       |Backtracking
-|79|                          |    |         |
-|84|                          |    |         |
-|85|                          |    |         |
-|94|                          |    |         |
-|96|                          |    |         |
-|98|                          |    |         |
-|101|                          |    |         |
+|79|[Word Search][p79]                                             |[C++][p79sol]    |Medium       |Backtracking
+|84|[Largest Rectangle in Histogram][p84]                          |[C++][p84sol]    |Hard         |Stack
+|85|[Maximal Rectangle][p85]                                       |[C++][p85sol]    |Hard         |Dynamic Programming
+|94|[Binary Tree Inorder Traversal][p94]                           |[C++][p94sol]    |Medium       |Recursion
+|96|[Unique Binary Search Trees][p96]                              |[C++][p96sol]    |Medium       |Dynamic Programming
+|98|[Validate Binary Search Tree][p98]                             |[C++][p98sol]    |Medium       |Recursion
+|101|[Symmetric Tree][p101]                                        |[C++][p101sol]   |Easy         |Recursion
 |102|                          |    |         |
 |104|                          |    |         |
 |105|                          |    |         |
@@ -104,20 +104,6 @@
 |621|                          |    |         |
 |647|                          |    |         |
 |739|                          |    |         |
-
-### Contest
-| Contest                  |  Rank     | Problem    |Related Topics |
-|-----------               |  -------- | ---------- | -------------- |
-|[Weekly 171][contest171]  | 2279/7189 | [1317][p1317]/[1318][p1318]/[1319][p1319]/[1320][p1320] | Math/Bit Manipulation/Union Find/Dynamic Programming |
-| Weekly 172|        |   |  |
-
-
-[contest171]: https://leetcode.com/contest/weekly-contest-171
-[p1317]: ./Contest/Weekly%20Contest%20171/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md
-[p1318]: ./Contest/Weekly%20Contest%20171/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md
-[p1319]: ./Contest/Weekly%20Contest%20171/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md
-[p1320]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
-
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p1sol]: ./Top%20100%20Liked%20Questions/1.%20Two%20Sum.md
@@ -186,3 +172,18 @@
 
 [p78]: https://leetcode.com/problems/subsets/
 [p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
+
+
+
+### Contest
+| Contest                  |  Rank     | Problem    |Related Topics |
+|-----------               |  -------- | ---------- | -------------- |
+|[Weekly 171][contest171]  | 2279/7189 | [1317][p1317]/[1318][p1318]/[1319][p1319]/[1320][p1320] | Math/Bit Manipulation/Union Find/Dynamic Programming |
+| Weekly 172|        |   |  |
+
+
+[contest171]: https://leetcode.com/contest/weekly-contest-171
+[p1317]: ./Contest/Weekly%20Contest%20171/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md
+[p1318]: ./Contest/Weekly%20Contest%20171/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md
+[p1319]: ./Contest/Weekly%20Contest%20171/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md
+[p1320]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
