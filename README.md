@@ -45,8 +45,8 @@
 |96|[Unique Binary Search Trees][p96]                              |[C++][p96sol]    |Medium       |Dynamic Programming
 |98|[Validate Binary Search Tree][p98]                             |[C++][p98sol]    |Medium       |Recursion
 |101|[Symmetric Tree][p101]                                        |[C++][p101sol]   |Easy         |Recursion
-|102|                          |    |         |
-|104|                          |    |         |
+|102|[Binary Tree Level Order Traversal][p102]                     |[C++][p104sol]   |Medium       |Breath-first Search
+|104|[Maximum Depth of Binary Tree][p104]                          |[C++][p104sol]   |Easy         |Recursion
 |105|                          |    |         |
 |114|                          |    |         |
 |121|                          |    |         |
@@ -172,6 +172,15 @@
 
 [p78]: https://leetcode.com/problems/subsets/
 [p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
+
+
+
+[p101]: https://leetcode.com/problems/symmetric-tree/
+[p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
+[p104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+
+
 
 
 
