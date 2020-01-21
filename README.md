@@ -173,12 +173,15 @@
 [p78]: https://leetcode.com/problems/subsets/
 [p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
 
-
+[p94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[p94sol]: ./Top%20100%20Liked%20Questions/94.%20Binary%20Tree%20Inorder%20Traversal.md
+[p96]: https://leetcode.com/problems/unique-binary-search-trees/
+[p96sol]: ./Top%20100%20Liked%20Questions/96.%20Unique%20Binary%20Search%20Trees.md
 
 [p101]: https://leetcode.com/problems/symmetric-tree/
 [p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
 [p104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-
+[p104sol]: ./Top%20100%20Liked%20Questions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
 
 
 
