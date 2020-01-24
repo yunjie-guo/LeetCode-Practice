@@ -193,7 +193,7 @@
 | Contest                  |  Rank     | Problem    |Related Topics |
 |-----------               |  -------- | ---------- | -------------- |
 |[Weekly 171][contest171]  | 2279/7189 | [1317][p1317]/[1318][p1318]/[1319][p1319]/[1320][p1320] | Math/Bit Manipulation/Union Find/Dynamic Programming |
-| Weekly 172| 3665/6604 | [1323][p1323]/[1324][p1324]/[1325][p1325]/[1326][p1326] | Math/String/Recursion/Dynamic Programming  |
+|[Weekly 172][contest172]| 3665/6604 | [1323][p1323]/[1324][p1324]/[1325][p1325]/[1326][p1326] | Math/String/Recursion/Dynamic Programming  |
 
 
 [contest171]: https://leetcode.com/contest/weekly-contest-171
@@ -201,3 +201,9 @@
 [p1318]: ./Contest/Weekly%20Contest%20171/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md
 [p1319]: ./Contest/Weekly%20Contest%20171/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md
 [p1320]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
+
+[contest172]: https://leetcode.com/contest/weekly-contest-172
+[p1323]: ./Contest/Weekly%20Contest%20171/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md
+[p1324]: ./Contest/Weekly%20Contest%20171/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md
+[p1325]: ./Contest/Weekly%20Contest%20171/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md
+[p1326]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
