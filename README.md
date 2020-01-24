@@ -203,7 +203,7 @@
 [p1320]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
 
 [contest172]: https://leetcode.com/contest/weekly-contest-172
-[p1323]: ./Contest/Weekly%20Contest%20171/1317.%20Convert%20Integer%20to%20the%20Sum%20of%20Two%20No-Zero%20Integers.md
-[p1324]: ./Contest/Weekly%20Contest%20171/1318.%20Minimum%20Flips%20to%20Make%20a%20OR%20b%20Equal%20to%20c.md
-[p1325]: ./Contest/Weekly%20Contest%20171/1319.%20Number%20of%20Operations%20to%20Make%20Network%20Connected.md
-[p1326]: ./Contest/Weekly%20Contest%20171/1320.%20Minimum%20Distance%20to%20Type%20a%20Word%20Using%20Two%20Fingers.md
+[p1323]: ./Contest/Weekly%20Contest%20171/1323.%20Maximum%2069%20Number.md
+[p1324]: ./Contest/Weekly%20Contest%20171/1324.%20Print%20Words%20Vertically.md
+[p1325]: ./Contest/Weekly%20Contest%20171/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.md
+[p1326]: ./Contest/Weekly%20Contest%20171/
