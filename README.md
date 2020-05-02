@@ -1,6 +1,4 @@
-# LeetCode
-
-### Algorithm written in C++ 
+# LeetCode Solution in C++
 
 | # | Problem | Solution | Difficulty | Related Topics/Ideas |
 |---| ------- | -------- | ---------- | -------------- |
