@@ -1,4 +1,4 @@
-# LeetCode Solution in C++
+# LeetCode Solutions in C++
 
 | # | Problem | Solution | Difficulty | Related Topics/Ideas |
 |---| ------- | -------- | ---------- | -------------- |
