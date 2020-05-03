@@ -167,9 +167,19 @@
 [p72sol]: ./Top%20100%20Liked%20Questions/72.%20Edit%20Distance.md
 [p75]: https://leetcode.com/problems/sort-colors/
 [p75sol]: ./Top%20100%20Liked%20Questions/75.%20Sort%20Colors.md
-
+[p76]: https://leetcode.com/problems/minimum-window-substring/
+[p76sol]: ./Top%20100%20Liked%20Questions/76.%20Minimum%20Window%20Substring.md
 [p78]: https://leetcode.com/problems/subsets/
 [p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
+[p79]: https://leetcode.com/problems/word-search/
+[p79sol]: ./Top%20100%20Liked%20Questions/79.%20Word%20Search.md
+[p84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
+[p84sol]: ./Top%20100%20Liked%20Questions/84.%20Largest%20Rectangle%20in%20Histogram.md
+[p85]: https://leetcode.com/problems/maximal-rectangle/
+[p85sol]: ./Top%20100%20Liked%20Questions/85.%20Maximal%20Rectangle.md
+
+
+
 
 [p94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [p94sol]: ./Top%20100%20Liked%20Questions/94.%20Binary%20Tree%20Inorder%20Traversal.md
