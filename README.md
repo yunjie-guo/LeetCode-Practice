@@ -43,15 +43,15 @@
 |96|[Unique Binary Search Trees][p96]                              |[C++][p96sol]    |Medium       |Dynamic Programming
 |98|[Validate Binary Search Tree][p98]                             |[C++][p98sol]    |Medium       |Recursion
 |101|[Symmetric Tree][p101]                                        |[C++][p101sol]   |Easy         |Recursion
-|102|[Binary Tree Level Order Traversal][p102]                     |[C++][p102sol]   |Medium       |Breath-first Search
+|102|[Binary Tree Level Order Traversal][p102]                     |[C++][p102sol]   |Medium       |BFS
 |104|[Maximum Depth of Binary Tree][p104]                          |[C++][p104sol]   |Easy         |Recursion
-|105|                          |    |         |
-|114|                          |    |         |
-|121|                          |    |         |
-|124|                          |    |         |
-|128|                          |    |         |
-|136|                          |    |         |
-|138|                          |    |         |
+|105|[Construct Binary Tree from Preorder and Inorder Traversal][p105] |[C++][p105sol] |Medium     |Recursion
+|114|[Flatten Binary Tree to Linked List][p114]                    |[C++][p114sol]    |Medium      |Recursion
+|121|[Best Time to Buy and Sell Stock][p121]                       |[C++][p121sol]    |Easy        |Array
+|124|[Binary Tree Maximum Path Sum][p124]                          |[C++][p124sol]    |Hard        |DFS
+|128|[Longest Consecutive Sequence][p128]                          |[C++][p128sol]    |Hard        |Array
+|136|[Single Number][p136]                                         |[C++][p136sol]    |Easy        |Bit Manipulation
+|138|[Copy List with Random Pointer][p138]                         |[C++][p138sol]    |Medium      |Linked List
 |139|                          |    |         |
 |141|                          |    |         |
 |142|                          |    |         |
@@ -104,98 +104,106 @@
 |739|                          |    |         |
 
 [p1]: https://leetcode.com/problems/two-sum/
-[p1sol]: ./Top%20100%20Liked%20Questions/1.%20Two%20Sum.md
 [p2]: https://leetcode.com/problems/add-two-numbers/
-[p2sol]: ./Top%20100%20Liked%20Questions/2.%20Add%20Two%20Numbers.md
 [p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-[p3sol]: ./Top%20100%20Liked%20Questions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md
 [p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
-[p4sol]: ./Top%20100%20Liked%20Questions/4.%20Median%20of%20Two%20Sorted%20Arrays.md
 [p5]: https://leetcode.com/problems/longest-palindromic-substring/
-[p5sol]: ./Top%20100%20Liked%20Questions/5.%20Longest%20Palindromic%20Substring.md
 [p10]: https://leetcode.com/problems/regular-expression-matching/
-[p10sol]: ./Top%20100%20Liked%20Questions/10.%20Regular%20Expression%20Matching.md
 [p11]: https://leetcode.com/problems/container-with-most-water/
-[p11sol]: ./Top%20100%20Liked%20Questions/11.%20Container%20With%20Most%20Water.md
 [p15]: https://leetcode.com/problems/3sum/
-[p15sol]: ./Top%20100%20Liked%20Questions/15.%203Sum.md
 [p17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-[p17sol]: ./Top%20100%20Liked%20Questions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md
 [p19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[p19sol]: ./Top%20100%20Liked%20Questions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md
 [p20]: https://leetcode.com/problems/valid-parentheses/
-[p20sol]: ./Top%20100%20Liked%20Questions/20.%20Valid%20Parentheses.md
 [p21]: https://leetcode.com/problems/merge-two-sorted-lists/
-[p21sol]: ./Top%20100%20Liked%20Questions/21.%20Merge%20Two%20Sorted%20Lists.md
 [p22]: https://leetcode.com/problems/generate-parentheses/
-[p22sol]: ./Top%20100%20Liked%20Questions/22.%20Generate%20Parentheses.md
 [p23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists.md
 [p31]: https://leetcode.com/problems/next-permutation/
-[p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation.md
 [p32]: https://leetcode.com/problems/longest-valid-parentheses/
-[p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses.md
 [p33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
-[p33sol]: ./Top%20100%20Liked%20Questions/33.%20Search%20in%20Rotated%20Sorted%20Array.md
 [p34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-[p34sol]: ./Top%20100%20Liked%20Questions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md
 [p39]: https://leetcode.com/problems/combination-sum/
-[p39sol]: ./Top%20100%20Liked%20Questions/39.%20Combination%20Sum.md
 [p41]: https://leetcode.com/problems/first-missing-positive/
-[p41sol]: ./Top%20100%20Liked%20Questions/41.%20First%20Missing%20Positive.md
 [p42]: https://leetcode.com/problems/trapping-rain-water/
-[p42sol]: ./Top%20100%20Liked%20Questions/42.%20Trapping%20Rain%20Water.md
 [p46]: https://leetcode.com/problems/permutations/
-[p46sol]: ./Top%20100%20Liked%20Questions/46.%20Permutations.md
 [p48]: https://leetcode.com/problems/rotate-image/
-[p48sol]: ./Top%20100%20Liked%20Questions/48.%20Rotate%20Image.md
 [p49]: https://leetcode.com/problems/group-anagrams/
-[p49sol]: ./Top%20100%20Liked%20Questions/49.%20Group%20Anagrams.md
 [p53]: https://leetcode.com/problems/maximum-subarray
-[p53sol]: ./Top%20100%20Liked%20Questions/53.%20Maximum%20Subarray.md
 [p55]: https://leetcode.com/problems/jump-game/
-[p55sol]: ./Top%20100%20Liked%20Questions/55.%20Jump%20Game.md
 [p56]: https://leetcode.com/problems/merge-intervals/
-[p56sol]: ./Top%20100%20Liked%20Questions/56.%20Merge%20Intervals.md
 [p62]: https://leetcode.com/problems/unique-paths/
-[p62sol]: ./Top%20100%20Liked%20Questions/62.%20Unique%20Paths.md
 [p64]: https://leetcode.com/problems/minimum-path-sum/
-[p64sol]: ./Top%20100%20Liked%20Questions/64.%20Minimum%20Path%20Sum.md
 [p70]: https://leetcode.com/problems/climbing-stairs/
-[p70sol]: ./Top%20100%20Liked%20Questions/70.%20Climbing%20Stairs.md
 [p72]: https://leetcode.com/problems/edit-distance/
-[p72sol]: ./Top%20100%20Liked%20Questions/72.%20Edit%20Distance.md
 [p75]: https://leetcode.com/problems/sort-colors/
-[p75sol]: ./Top%20100%20Liked%20Questions/75.%20Sort%20Colors.md
 [p76]: https://leetcode.com/problems/minimum-window-substring/
-[p76sol]: ./Top%20100%20Liked%20Questions/76.%20Minimum%20Window%20Substring.md
 [p78]: https://leetcode.com/problems/subsets/
-[p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
 [p79]: https://leetcode.com/problems/word-search/
-[p79sol]: ./Top%20100%20Liked%20Questions/79.%20Word%20Search.md
 [p84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
-[p84sol]: ./Top%20100%20Liked%20Questions/84.%20Largest%20Rectangle%20in%20Histogram.md
 [p85]: https://leetcode.com/problems/maximal-rectangle/
-[p85sol]: ./Top%20100%20Liked%20Questions/85.%20Maximal%20Rectangle.md
-
-
-
-
 [p94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-[p94sol]: ./Top%20100%20Liked%20Questions/94.%20Binary%20Tree%20Inorder%20Traversal.md
 [p96]: https://leetcode.com/problems/unique-binary-search-trees/
-[p96sol]: ./Top%20100%20Liked%20Questions/96.%20Unique%20Binary%20Search%20Trees.md
 [p98]: https://leetcode.com/problems/validate-binary-search-tree/
-[p98sol]: ./Top%20100%20Liked%20Questions/98.%20Validate%20Binary%20Search%20Tree.md
-
 [p101]: https://leetcode.com/problems/symmetric-tree/
-[p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
-
 [p102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-[p102sol]: ./Top%20100%20Liked%20Questions/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
-
-
 [p104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[p105]:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+[p114]:https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+[p121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[p124]:https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[p128]:https://leetcode.com/problems/longest-consecutive-sequence/
+[p136]:https://leetcode.com/problems/single-number/
+[p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
+
+
+
+
+[p1sol]: ./Top%20100%20Liked%20Questions/1.%20Two%20Sum.md
+[p2sol]: ./Top%20100%20Liked%20Questions/2.%20Add%20Two%20Numbers.md
+[p3sol]: ./Top%20100%20Liked%20Questions/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md
+[p4sol]: ./Top%20100%20Liked%20Questions/4.%20Median%20of%20Two%20Sorted%20Arrays.md
+[p5sol]: ./Top%20100%20Liked%20Questions/5.%20Longest%20Palindromic%20Substring.md
+[p10sol]: ./Top%20100%20Liked%20Questions/10.%20Regular%20Expression%20Matching.md
+[p11sol]: ./Top%20100%20Liked%20Questions/11.%20Container%20With%20Most%20Water.md
+[p15sol]: ./Top%20100%20Liked%20Questions/15.%203Sum.md
+[p17sol]: ./Top%20100%20Liked%20Questions/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md
+[p19sol]: ./Top%20100%20Liked%20Questions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md
+[p20sol]: ./Top%20100%20Liked%20Questions/20.%20Valid%20Parentheses.md
+[p21sol]: ./Top%20100%20Liked%20Questions/21.%20Merge%20Two%20Sorted%20Lists.md
+[p22sol]: ./Top%20100%20Liked%20Questions/22.%20Generate%20Parentheses.md
+[p23sol]: ./Top%20100%20Liked%20Questions/23.%20Merge%20k%20Sorted%20Lists.md
+[p31sol]: ./Top%20100%20Liked%20Questions/31.%20Next%20Permutation.md
+[p32sol]: ./Top%20100%20Liked%20Questions/32.%20Longest%20Valid%20Parentheses.md
+[p33sol]: ./Top%20100%20Liked%20Questions/33.%20Search%20in%20Rotated%20Sorted%20Array.md
+[p34sol]: ./Top%20100%20Liked%20Questions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md
+[p39sol]: ./Top%20100%20Liked%20Questions/39.%20Combination%20Sum.md
+[p41sol]: ./Top%20100%20Liked%20Questions/41.%20First%20Missing%20Positive.md
+[p42sol]: ./Top%20100%20Liked%20Questions/42.%20Trapping%20Rain%20Water.md
+[p46sol]: ./Top%20100%20Liked%20Questions/46.%20Permutations.md
+[p48sol]: ./Top%20100%20Liked%20Questions/48.%20Rotate%20Image.md
+[p49sol]: ./Top%20100%20Liked%20Questions/49.%20Group%20Anagrams.md
+[p53sol]: ./Top%20100%20Liked%20Questions/53.%20Maximum%20Subarray.md
+[p55sol]: ./Top%20100%20Liked%20Questions/55.%20Jump%20Game.md
+[p56sol]: ./Top%20100%20Liked%20Questions/56.%20Merge%20Intervals.md
+[p62sol]: ./Top%20100%20Liked%20Questions/62.%20Unique%20Paths.md
+[p64sol]: ./Top%20100%20Liked%20Questions/64.%20Minimum%20Path%20Sum.md
+[p70sol]: ./Top%20100%20Liked%20Questions/70.%20Climbing%20Stairs.md
+[p72sol]: ./Top%20100%20Liked%20Questions/72.%20Edit%20Distance.md
+[p75sol]: ./Top%20100%20Liked%20Questions/75.%20Sort%20Colors.md
+[p76sol]: ./Top%20100%20Liked%20Questions/76.%20Minimum%20Window%20Substring.md
+[p78sol]: ./Top%20100%20Liked%20Questions/78.%20Subsets.md
+[p79sol]: ./Top%20100%20Liked%20Questions/79.%20Word%20Search.md
+[p84sol]: ./Top%20100%20Liked%20Questions/84.%20Largest%20Rectangle%20in%20Histogram.md
+[p85sol]: ./Top%20100%20Liked%20Questions/85.%20Maximal%20Rectangle.md
+[p94sol]: ./Top%20100%20Liked%20Questions/94.%20Binary%20Tree%20Inorder%20Traversal.md
+[p96sol]: ./Top%20100%20Liked%20Questions/96.%20Unique%20Binary%20Search%20Trees.md
+[p98sol]: ./Top%20100%20Liked%20Questions/98.%20Validate%20Binary%20Search%20Tree.md
+[p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
+[p102sol]: ./Top%20100%20Liked%20Questions/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
 [p104sol]: ./Top%20100%20Liked%20Questions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
-
-
+[p105sol]:
+[p114sol]:
+[p121sol]:
+[p124sol]:
+[p128sol]:
+[p136sol]:
+[p138sol]:
