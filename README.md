@@ -200,10 +200,10 @@
 [p101sol]: ./Top%20100%20Liked%20Questions/101.%20Symmetric%20Tree.md
 [p102sol]: ./Top%20100%20Liked%20Questions/102.%20Binary%20Tree%20Level%20Order%20Traversal.md
 [p104sol]: ./Top%20100%20Liked%20Questions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
-[p105sol]:
-[p114sol]:
-[p121sol]:
-[p124sol]:
-[p128sol]:
-[p136sol]:
-[p138sol]:
+[p105sol]: ./Top%20100%20Liked%20Questions/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md
+[p114sol]: ./Top%20100%20Liked%20Questions/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md
+[p121sol]: ./Top%20100%20Liked%20Questions/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md
+[p124sol]: ./Top%20100%20Liked%20Questions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.md
+[p128sol]: ./Top%20100%20Liked%20Questions/128.%20Longest%20Consecutive%20Sequence.md
+[p136sol]: ./Top%20100%20Liked%20Questions/136.%20Single%20Number.md
+[p138sol]: ./Top%20100%20Liked%20Questions/138.%20Copy%20List%20with%20Random%20Pointer.md
