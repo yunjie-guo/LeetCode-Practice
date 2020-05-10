@@ -52,56 +52,56 @@
 |128|[Longest Consecutive Sequence][p128]                          |[C++][p128sol]    |Hard        |Array
 |136|[Single Number][p136]                                         |[C++][p136sol]    |Easy        |Bit Manipulation
 |138|[Copy List with Random Pointer][p138]                         |[C++][p138sol]    |Medium      |Linked List
-|139|                          |    |         |
-|141|                          |    |         |
-|142|                          |    |         |
-|146|                          |    |         |
-|148|                          |    |         |
-|152|                          |    |         |
-|155|                          |    |         |
-|160|                          |    |         |
-|169|                          |    |         |
-|198|                          |    |         |
-|200|                          |    |         |
+|139|[Word Break][p139]                          |    |         |
+|141|[Word Break][p139]                          |    |         |
+|142|[Word Break][p139]                          |    |         |
+|146|[Word Break][p139]                          |    |         |
+|148|[Word Break][p139]                          |    |         |
+|152|[Word Break][p139]                          |    |         |
+|155|[Word Break][p139]                          |    |         |
+|160|[Word Break][p139]                          |    |         |
+|169|[Word Break][p139]                          |    |         |
+|198|[Word Break][p139]                          |    |         |
+|200|[Word Break][p139]                          |    |         |
 |206|[Reverse Linked List][p206]                          |    |         |
-|207|                          |    |         |
-|208|                          |    |         |
-|215|                          |    |         |
-|221|                          |    |         |
-|226|                          |    |         |
-|234|                          |    |         |
-|236|                          |    |         |
-|238|                          |    |         |
-|239|                          |    |         |
-|240|                          |    |         |
-|253|                          |    |         |
-|279|                          |    |         |
-|283|                          |    |         |
-|287|                          |    |         |
-|295|                          |    |         |
-|297|                          |    |         |
-|300|                          |    |         |
-|301|                          |    |         |
-|309|                          |    |         |
-|312|                          |    |         |
-|322|                          |    |         |
-|337|                          |    |         |
-|338|                          |    |         |
-|347|                          |    |         |
-|394|                          |    |         |
-|406|                          |    |         |
-|416|                          |    |         |
-|437|                          |    |         |
-|438|                          |    |         |
-|448|                          |    |         |
-|494|                          |    |         |
-|543|                          |    |         |
-|560|                          |    |         |
-|581|                          |    |         |
-|617|                          |    |         |
-|621|                          |    |         |
-|647|                          |    |         |
-|739|                          |    |         |
+|207|[Word Break][p139]                          |    |         |
+|208|[Word Break][p139]                          |    |         |
+|215|[Word Break][p139]                          |    |         |
+|221|[Word Break][p139]                          |    |         |
+|226|[Word Break][p139]                          |    |         |
+|234|[Word Break][p139]                          |    |         |
+|236|[Word Break][p139]                          |    |         |
+|238|[Word Break][p139]                          |    |         |
+|239|[Word Break][p139]                          |    |         |
+|240|[Word Break][p139]                          |    |         |
+|253|[Word Break][p139]                          |    |         |
+|279|[Word Break][p139]                          |    |         |
+|283|[Word Break][p139]                          |    |         |
+|287|[Word Break][p139]                          |    |         |
+|295|[Word Break][p139]                          |    |         |
+|297|[Word Break][p139]                          |    |         |
+|300|[Word Break][p139]                          |    |         |
+|301|[Word Break][p139]                          |    |         |
+|309|[Word Break][p139]                          |    |         |
+|312|[Word Break][p139]                          |    |         |
+|322|[Word Break][p139]                          |    |         |
+|337|[Word Break][p139]                          |    |         |
+|338|[Word Break][p139]                          |    |         |
+|347|[Word Break][p139]                          |    |         |
+|394|[Word Break][p139]                          |    |         |
+|406|[Word Break][p139]                          |    |         |
+|416|[Word Break][p139]                          |    |         |
+|437|[Word Break][p139]                          |    |         |
+|438|[Word Break][p139]                          |    |         |
+|448|[Word Break][p139]                          |    |         |
+|494|[Word Break][p139]                          |    |         |
+|543|[Word Break][p139]                          |    |         |
+|560|[Word Break][p139]                          |    |         |
+|581|[Word Break][p139]                          |    |         |
+|617|[Word Break][p139]                          |    |         |
+|621|[Word Break][p139]                          |    |         |
+|647|[Word Break][p139]                          |    |         |
+|739|[Word Break][p139]                          |    |         |
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
