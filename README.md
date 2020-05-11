@@ -74,13 +74,13 @@
 |238|[Product of Array Except Self][p238]                          |[C++][p238]       |Medium      |Array
 |239|[Sliding Window Maximum][p239]                                |[C++][p239]       |Hard        |Sliding Window
 |240|[Search a 2D Matrix II][p240]                                 |[C++][p240]       |Medium      |Array
-|253|                       |    |         |
-|279|[Perfect Squares][p279]                                       |[C++][p279]       |Medium      |
-|283|[Word Break][p139]                          |    |         |
-|287|[Word Break][p139]                          |    |         |
-|295|[Word Break][p139]                          |    |         |
-|297|[Word Break][p139]                          |    |         |
-|300|[Word Break][p139]                          |    |         |
+|253|[Meeting Rooms II][p253]                                      |[C++][p253]       |Medium      |Array
+|279|[Perfect Squares][p279]                                       |[C++][p279]       |Medium      |Math
+|283|[Move Zeroes][p283]                                           |[C++][p283]       |Easy        |Array
+|287|[Find the Duplicate Number][p287]                             |[C++][p287]       |Medium      |Array
+|295|[Find Median from Data Stream][p295]                          |[C++][p295]       |Hard        |Heap
+|297|[Serialize and Deserialize Binary Tree][p297]                 |[C++][p297]       |Hard        |Binary Tree
+|300|[Longest Increasing Subsequence][p300]                          |    |         |
 |301|[Word Break][p139]                          |    |         |
 |309|[Word Break][p139]                          |    |         |
 |312|[Word Break][p139]                          |    |         |
