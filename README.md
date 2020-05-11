@@ -52,30 +52,30 @@
 |128|[Longest Consecutive Sequence][p128]                          |[C++][p128sol]    |Hard        |Array
 |136|[Single Number][p136]                                         |[C++][p136sol]    |Easy        |Bit Manipulation
 |138|[Copy List with Random Pointer][p138]                         |[C++][p138sol]    |Medium      |Linked List
-|139|[Word Break][p139]                          |    |         |
-|141|[Word Break][p139]                          |    |         |
-|142|[Word Break][p139]                          |    |         |
-|146|[Word Break][p139]                          |    |         |
-|148|[Word Break][p139]                          |    |         |
-|152|[Word Break][p139]                          |    |         |
-|155|[Word Break][p139]                          |    |         |
-|160|[Word Break][p139]                          |    |         |
-|169|[Word Break][p139]                          |    |         |
-|198|[Word Break][p139]                          |    |         |
-|200|[Word Break][p139]                          |    |         |
-|206|[Reverse Linked List][p206]                          |    |         |
-|207|[Word Break][p139]                          |    |         |
-|208|[Word Break][p139]                          |    |         |
-|215|[Word Break][p139]                          |    |         |
-|221|[Word Break][p139]                          |    |         |
-|226|[Word Break][p139]                          |    |         |
-|234|[Word Break][p139]                          |    |         |
-|236|[Word Break][p139]                          |    |         |
-|238|[Word Break][p139]                          |    |         |
-|239|[Word Break][p139]                          |    |         |
-|240|[Word Break][p139]                          |    |         |
-|253|[Word Break][p139]                          |    |         |
-|279|[Word Break][p139]                          |    |         |
+|139|[Word Break][p139]                                            |[C++][p139sol]    |Medium      |Dynamic Programming
+|141|[Linked List Cycle][p141]                                     |[C++][p141sol]    |Easy        |Linked List
+|142|[Linked List Cycle II][p142]                                  |[C++][p142sol]    |Medium      |Linked List
+|146|[LRU Cache][p146]                                             |[C++][p146sol]    |Medium      |Design
+|148|[Sort List][p148]                                             |[C++][p148sol]    |Medium      |Linked List
+|152|[Maximum Product Subarray][p152]                              |[C++][p152sol]    |Medium      |Dynamic Programming
+|155|[Min Stack][p155]                                             |[C++][p155sol]    |Easy        |Stack
+|160|[Intersection of Two Linked Lists][p160]                      |[C++][p160sol]    |Easy        |Linked List
+|169|[Majority Element][p169]                                      |[C++][p169sol]    |Easy        |Array
+|198|[House Robber][p198]                                          |[C++][p198sol]    |Easy        |Dynamic Programming
+|200|[Number of Islands][p200]                                     |[C++][p200sol]    |Medium      |DFS
+|206|[Reverse Linked List][p206]                                   |[C++][p200]       |Easy        |Linked List
+|207|[Course Schedule][p207]                                       |[C++][p207]       |Medium      |DFS
+|208|[Implement Trie (Prefix Tree)][p208]                          |[C++][p208]       |Medium      |Design
+|215|[Kth Largest Element in an Array][p139]                       |[C++][p215]       |Medium      |Array
+|221|[Maximal Square][p221]                                        |[C++][p221]       |Medium      |Dynamic Programming
+|226|[Invert Binary Tree][p226]                                    |[C++][p226]       |Easy        |Tree
+|234|[Palindrome Linked List][p234]                                |[C++][p234]       |Easy        |Linked List
+|236|[Lowest Common Ancestor of a Binary Tree][p236]               |[C++][p236]       |Medium      |Tree
+|238|[Product of Array Except Self][p238]                          |[C++][p238]       |Medium      |Array
+|239|[Sliding Window Maximum][p239]                                |[C++][p239]       |Hard        |Sliding Window
+|240|[Search a 2D Matrix II][p240]                                 |[C++][p240]       |Medium      |Array
+|253|                       |    |         |
+|279|[Perfect Squares][p279]                                       |[C++][p279]       |Medium      |
 |283|[Word Break][p139]                          |    |         |
 |287|[Word Break][p139]                          |    |         |
 |295|[Word Break][p139]                          |    |         |
@@ -153,6 +153,59 @@
 [p128]:https://leetcode.com/problems/longest-consecutive-sequence/
 [p136]:https://leetcode.com/problems/single-number/
 [p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
+
+[p139]: https://leetcode.com/problems/word-break/
+[p141]: https://leetcode.com/problems/linked-list-cycle/
+[p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[p5]: https://leetcode.com/problems/longest-palindromic-substring/
+[p10]: https://leetcode.com/problems/regular-expression-matching/
+[p11]: https://leetcode.com/problems/container-with-most-water/
+[p15]: https://leetcode.com/problems/3sum/
+[p17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[p19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[p20]: https://leetcode.com/problems/valid-parentheses/
+[p21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[p22]: https://leetcode.com/problems/generate-parentheses/
+[p23]: https://leetcode.com/problems/merge-k-sorted-lists/
+[p31]: https://leetcode.com/problems/next-permutation/
+[p32]: https://leetcode.com/problems/longest-valid-parentheses/
+[p33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[p34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[p39]: https://leetcode.com/problems/combination-sum/
+[p41]: https://leetcode.com/problems/first-missing-positive/
+[p42]: https://leetcode.com/problems/trapping-rain-water/
+[p46]: https://leetcode.com/problems/permutations/
+[p48]: https://leetcode.com/problems/rotate-image/
+[p49]: https://leetcode.com/problems/group-anagrams/
+[p53]: https://leetcode.com/problems/maximum-subarray
+[p55]: https://leetcode.com/problems/jump-game/
+[p56]: https://leetcode.com/problems/merge-intervals/
+[p62]: https://leetcode.com/problems/unique-paths/
+[p64]: https://leetcode.com/problems/minimum-path-sum/
+[p70]: https://leetcode.com/problems/climbing-stairs/
+[p72]: https://leetcode.com/problems/edit-distance/
+[p75]: https://leetcode.com/problems/sort-colors/
+[p76]: https://leetcode.com/problems/minimum-window-substring/
+[p78]: https://leetcode.com/problems/subsets/
+[p79]: https://leetcode.com/problems/word-search/
+[p84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
+[p85]: https://leetcode.com/problems/maximal-rectangle/
+[p94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[p96]: https://leetcode.com/problems/unique-binary-search-trees/
+[p98]: https://leetcode.com/problems/validate-binary-search-tree/
+[p101]: https://leetcode.com/problems/symmetric-tree/
+[p102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[p104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[p105]:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+[p114]:https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+[p121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[p124]:https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[p128]:https://leetcode.com/problems/longest-consecutive-sequence/
+[p136]:https://leetcode.com/problems/single-number/
+[p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
+
+
 
 
 
