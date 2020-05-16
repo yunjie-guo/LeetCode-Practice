@@ -63,45 +63,45 @@
 |169|[Majority Element][p169]                                      |[C++][p169sol]    |Easy        |Array
 |198|[House Robber][p198]                                          |[C++][p198sol]    |Easy        |Dynamic Programming
 |200|[Number of Islands][p200]                                     |[C++][p200sol]    |Medium      |DFS
-|206|[Reverse Linked List][p206]                                   |[C++][p200]       |Easy        |Linked List
-|207|[Course Schedule][p207]                                       |[C++][p207]       |Medium      |DFS
-|208|[Implement Trie (Prefix Tree)][p208]                          |[C++][p208]       |Medium      |Design
-|215|[Kth Largest Element in an Array][p139]                       |[C++][p215]       |Medium      |Array
-|221|[Maximal Square][p221]                                        |[C++][p221]       |Medium      |Dynamic Programming
-|226|[Invert Binary Tree][p226]                                    |[C++][p226]       |Easy        |Tree
-|234|[Palindrome Linked List][p234]                                |[C++][p234]       |Easy        |Linked List
-|236|[Lowest Common Ancestor of a Binary Tree][p236]               |[C++][p236]       |Medium      |Tree
-|238|[Product of Array Except Self][p238]                          |[C++][p238]       |Medium      |Array
-|239|[Sliding Window Maximum][p239]                                |[C++][p239]       |Hard        |Sliding Window
-|240|[Search a 2D Matrix II][p240]                                 |[C++][p240]       |Medium      |Array
-|253|[Meeting Rooms II][p253]                                      |[C++][p253]       |Medium      |Array
-|279|[Perfect Squares][p279]                                       |[C++][p279]       |Medium      |Math
-|283|[Move Zeroes][p283]                                           |[C++][p283]       |Easy        |Array
-|287|[Find the Duplicate Number][p287]                             |[C++][p287]       |Medium      |Array
-|295|[Find Median from Data Stream][p295]                          |[C++][p295]       |Hard        |Heap
-|297|[Serialize and Deserialize Binary Tree][p297]                 |[C++][p297]       |Hard        |Binary Tree
-|300|[Longest Increasing Subsequence][p300]                          |    |         |
-|301|[Word Break][p139]                          |    |         |
-|309|[Word Break][p139]                          |    |         |
-|312|[Word Break][p139]                          |    |         |
-|322|[Word Break][p139]                          |    |         |
-|337|[Word Break][p139]                          |    |         |
-|338|[Word Break][p139]                          |    |         |
-|347|[Word Break][p139]                          |    |         |
-|394|[Word Break][p139]                          |    |         |
-|406|[Word Break][p139]                          |    |         |
-|416|[Word Break][p139]                          |    |         |
-|437|[Word Break][p139]                          |    |         |
-|438|[Word Break][p139]                          |    |         |
-|448|[Word Break][p139]                          |    |         |
-|494|[Word Break][p139]                          |    |         |
-|543|[Word Break][p139]                          |    |         |
-|560|[Word Break][p139]                          |    |         |
-|581|[Word Break][p139]                          |    |         |
-|617|[Word Break][p139]                          |    |         |
-|621|[Word Break][p139]                          |    |         |
-|647|[Word Break][p139]                          |    |         |
-|739|[Word Break][p139]                          |    |         |
+|206|[Reverse Linked List][p206]                                   |[C++][p200sol]    |Easy        |Linked List
+|207|[Course Schedule][p207]                                       |[C++][p207sol]    |Medium      |DFS
+|208|[Implement Trie (Prefix Tree)][p208]                          |[C++][p208sol]    |Medium      |Design
+|215|[Kth Largest Element in an Array][p139]                       |[C++][p215sol]    |Medium      |Array
+|221|[Maximal Square][p221]                                        |[C++][p221sol]    |Medium      |Dynamic Programming
+|226|[Invert Binary Tree][p226]                                    |[C++][p226sol]    |Easy        |Tree
+|234|[Palindrome Linked List][p234]                                |[C++][p234sol]    |Easy        |Linked List
+|236|[Lowest Common Ancestor of a Binary Tree][p236]               |[C++][p236sol]    |Medium      |Tree
+|238|[Product of Array Except Self][p238]                          |[C++][p238sol]    |Medium      |Array
+|239|[Sliding Window Maximum][p239]                                |[C++][p239sol]    |Hard        |Sliding Window
+|240|[Search a 2D Matrix II][p240]                                 |[C++][p240sol]    |Medium      |Array
+|253|[Meeting Rooms II][p253]                                      |[C++][p253sol]    |Medium      |Array
+|279|[Perfect Squares][p279]                                       |[C++][p279sol]    |Medium      |Math
+|283|[Move Zeroes][p283]                                           |[C++][p283sol]    |Easy        |Array
+|287|[Find the Duplicate Number][p287]                             |[C++][p287sol]    |Medium      |Array
+|295|[Find Median from Data Stream][p295]                          |[C++][p295sol]    |Hard        |Heap
+|297|[Serialize and Deserialize Binary Tree][p297]                 |[C++][p297sol]    |Hard        |Binary Tree
+|300|[Longest Increasing Subsequence][p300]                        |[C++][p300sol]    |Medium      |Binary Search
+|301|[Remove Invalid Parentheses][p301]                            |[C++][p301sol]    |Medium      |DFS
+|309|[Best Time to Buy and Sell Stock with Cooldown][p309]         |[C++][p309sol]    |Medium      |Dynamic Programming
+|312|[Burst Balloons][p312]                                        |[C++][p312sol]    |Hard        |Dynamic Programming
+|322|[Coin Change][p322]                                           |[C++][p322sol]    |Medium      |Dynamic Programming
+|337|[House Robber III][p337]                                      |[C++][p337sol]    |Medium      |Recursion
+|338|[Counting Bits][p338]                                         |[C++][p338sol]    |Medium      |Dynamic Programming
+|347|[Top K Frequent Elements][p347]                               |[C++][p347sol]    |Medium      |Heap
+|394|[Decode String][p394]                                         |[C++][p394sol]    |Medium      |Recursion
+|406|[Queue Reconstruction by Height][p406]                        |[C++][p406sol]    |Medium      |Greedy
+|416|[Partition Equal Subset Sum][p416]                            |[C++][p416sol]    |Medium      |Dynamic Programming
+|437|[Path Sum III][p437]                                          |[C++][p437sol]    |Easy        |Recursion
+|438|[Find All Anagrams in a String][p438]                         |[C++][p438sol]    |Medium      |Hash Table
+|448|[Find All Numbers Disappeared in an Array][p448]              |[C++][p448sol]    |Easy        |Array
+|494|[Target Sum][p494]                                            |[C++][p494sol]    |Medium      |DFS
+|543|[Diameter of Binary Tree][p543]                               |[C++][p534sol]    |Easy        |Recursion
+|560|[Subarray Sum Equals K][560]                                  |[C++][p560sol]    |Medium      |Hash Table
+|581|[Shortest Unsorted Continuous Subarray][p581]                 |[C++][p581sol]    |Easy        |Array
+|617|[Merge Two Binary Trees][p617]                                |[C++][p617sol]    |Easy        |Binary Tree
+|621|[Task Scheduler][p621]                                        |[C++][p621sol]    |Medium      |Array
+|647|[Palindromic Substrings][p547]                                |[C++][p547sol]    |Medium      |Dynamic Programming
+|739|[Daily Temperatures][p739]                                    |[C++][p739sol]    |Medium      |Hash Table
 
 [p1]: https://leetcode.com/problems/two-sum/
 [p2]: https://leetcode.com/problems/add-two-numbers/
@@ -154,58 +154,55 @@
 [p136]:https://leetcode.com/problems/single-number/
 [p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
 
-[p139]: https://leetcode.com/problems/word-break/
-[p141]: https://leetcode.com/problems/linked-list-cycle/
-[p3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
-[p4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
-[p5]: https://leetcode.com/problems/longest-palindromic-substring/
-[p10]: https://leetcode.com/problems/regular-expression-matching/
-[p11]: https://leetcode.com/problems/container-with-most-water/
-[p15]: https://leetcode.com/problems/3sum/
-[p17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-[p19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-[p20]: https://leetcode.com/problems/valid-parentheses/
-[p21]: https://leetcode.com/problems/merge-two-sorted-lists/
-[p22]: https://leetcode.com/problems/generate-parentheses/
-[p23]: https://leetcode.com/problems/merge-k-sorted-lists/
-[p31]: https://leetcode.com/problems/next-permutation/
-[p32]: https://leetcode.com/problems/longest-valid-parentheses/
-[p33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
-[p34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-[p39]: https://leetcode.com/problems/combination-sum/
-[p41]: https://leetcode.com/problems/first-missing-positive/
-[p42]: https://leetcode.com/problems/trapping-rain-water/
-[p46]: https://leetcode.com/problems/permutations/
-[p48]: https://leetcode.com/problems/rotate-image/
-[p49]: https://leetcode.com/problems/group-anagrams/
-[p53]: https://leetcode.com/problems/maximum-subarray
-[p55]: https://leetcode.com/problems/jump-game/
-[p56]: https://leetcode.com/problems/merge-intervals/
-[p62]: https://leetcode.com/problems/unique-paths/
-[p64]: https://leetcode.com/problems/minimum-path-sum/
-[p70]: https://leetcode.com/problems/climbing-stairs/
-[p72]: https://leetcode.com/problems/edit-distance/
-[p75]: https://leetcode.com/problems/sort-colors/
-[p76]: https://leetcode.com/problems/minimum-window-substring/
-[p78]: https://leetcode.com/problems/subsets/
-[p79]: https://leetcode.com/problems/word-search/
-[p84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
-[p85]: https://leetcode.com/problems/maximal-rectangle/
-[p94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
-[p96]: https://leetcode.com/problems/unique-binary-search-trees/
-[p98]: https://leetcode.com/problems/validate-binary-search-tree/
-[p101]: https://leetcode.com/problems/symmetric-tree/
-[p102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
-[p104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
-[p105]:https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-[p114]:https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
-[p121]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-[p124]:https://leetcode.com/problems/binary-tree-maximum-path-sum/
-[p128]:https://leetcode.com/problems/longest-consecutive-sequence/
-[p136]:https://leetcode.com/problems/single-number/
-[p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
-
-
+[p141]:https://leetcode.com/problems/linked-list-cycle/
+[p142]:https://leetcode.com/problems/linked-list-cycle-ii/
+[p146]:https://leetcode.com/problems/lru-cache/
+[p148]:https://leetcode.com/problems/sort-list/
+[p152]:https://leetcode.com/problems/maximum-product-subarray/
+[p155]:https://leetcode.com/problems/min-stack/
+[p160]:https://leetcode.com/problems/intersection-of-two-linked-lists/
+[p169]:https://leetcode.com/problems/majority-element/
+[p198]:https://leetcode.com/problems/house-robber/
+[p200]:https://leetcode.com/problems/number-of-islands/
+[p206]:https://leetcode.com/problems/reverse-linked-list/
+[p207]:https://leetcode.com/problems/course-schedule/
+[p208]:https://leetcode.com/problems/implement-trie-prefix-tree/
+[p215]:https://leetcode.com/problems/kth-largest-element-in-an-array/
+[p221]:https://leetcode.com/problems/maximal-square/
+[p226]:https://leetcode.com/problems/invert-binary-tree/
+[p234]:https://leetcode.com/problems/palindrome-linked-list/
+[p236]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[p238]:https://leetcode.com/problems/product-of-array-except-self/
+[p239]:https://leetcode.com/problems/sliding-window-maximum/
+[p240]:https://leetcode.com/problems/search-a-2d-matrix-ii/
+[p253]:https://leetcode.com/problems/meeting-rooms-ii/
+[p279]:https://leetcode.com/problems/perfect-squares/
+[p283]:https://leetcode.com/problems/move-zeroes/
+[p287]:https://leetcode.com/problems/find-the-duplicate-number/
+[p295]:https://leetcode.com/problems/find-median-from-data-stream/
+[p297]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+[p300]:https://leetcode.com/problems/longest-increasing-subsequence/
+[p301]:https://leetcode.com/problems/remove-invalid-parentheses/
+[p309]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[p312]:https://leetcode.com/problems/burst-balloons/
+[p322]:https://leetcode.com/problems/coin-change/
+[p337]:https://leetcode.com/problems/house-robber-iii/
+[p338]:https://leetcode.com/problems/counting-bits/
+[p347]:https://leetcode.com/problems/top-k-frequent-elements/
+[p394]:https://leetcode.com/problems/decode-string/
+[p406]:https://leetcode.com/problems/queue-reconstruction-by-height/
+[p416]:https://leetcode.com/problems/partition-equal-subset-sum/
+[p437]:https://leetcode.com/problems/path-sum-iii/
+[p438]:https://leetcode.com/problems/find-all-anagrams-in-a-string/
+[p448]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[p494]:https://leetcode.com/problems/target-sum/
+[p543]:https://leetcode.com/problems/diameter-of-binary-tree/
+[p560]:https://leetcode.com/problems/subarray-sum-equals-k/
+[p581]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+[p617]:https://leetcode.com/problems/merge-two-binary-trees/
+[p621]:https://leetcode.com/problems/task-scheduler/
+[p647]:https://leetcode.com/problems/palindromic-substrings/
+[p739]:https://leetcode.com/problems/daily-temperatures/
 
 
 
@@ -260,3 +257,54 @@
 [p128sol]: ./Top%20100%20Liked%20Questions/128.%20Longest%20Consecutive%20Sequence.md
 [p136sol]: ./Top%20100%20Liked%20Questions/136.%20Single%20Number.md
 [p138sol]: ./Top%20100%20Liked%20Questions/138.%20Copy%20List%20with%20Random%20Pointer.md
+
+
+[p141sol]:https://leetcode.com/problems/linked-list-cycle/
+[p142sol]:https://leetcode.com/problems/linked-list-cycle-ii/
+[p146sol]:https://leetcode.com/problems/lru-cache/
+[p148sol]:https://leetcode.com/problems/sort-list/
+[p152sol]:https://leetcode.com/problems/maximum-product-subarray/
+[p155sol]:https://leetcode.com/problems/min-stack/
+[p160sol]:https://leetcode.com/problems/intersection-of-two-linked-lists/
+[p169sol]:https://leetcode.com/problems/majority-element/
+[p198sol]:https://leetcode.com/problems/house-robber/
+[p200sol]:https://leetcode.com/problems/number-of-islands/
+[p206sol]:https://leetcode.com/problems/reverse-linked-list/
+[p207sol]:https://leetcode.com/problems/course-schedule/
+[p208sol]:https://leetcode.com/problems/implement-trie-prefix-tree/
+[p215sol]:https://leetcode.com/problems/kth-largest-element-in-an-array/
+[p221sol]:https://leetcode.com/problems/maximal-square/
+[p226sol]:https://leetcode.com/problems/invert-binary-tree/
+[p234sol]:https://leetcode.com/problems/palindrome-linked-list/
+[p236sol]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[p238sol]:https://leetcode.com/problems/product-of-array-except-self/
+[p239sol]:https://leetcode.com/problems/sliding-window-maximum/
+[p240sol]:https://leetcode.com/problems/search-a-2d-matrix-ii/
+[p253sol]:https://leetcode.com/problems/meeting-rooms-ii/
+[p279sol]:https://leetcode.com/problems/perfect-squares/
+[p283sol]:https://leetcode.com/problems/move-zeroes/
+[p287sol]:https://leetcode.com/problems/find-the-duplicate-number/
+[p295sol]:https://leetcode.com/problems/find-median-from-data-stream/
+[p297sol]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+[p300sol]:https://leetcode.com/problems/longest-increasing-subsequence/
+[p301sol]:https://leetcode.com/problems/remove-invalid-parentheses/
+[p309sol]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[p312sol]:https://leetcode.com/problems/burst-balloons/
+[p322sol]:https://leetcode.com/problems/coin-change/
+[p337sol]:https://leetcode.com/problems/house-robber-iii/
+[p338sol]:https://leetcode.com/problems/counting-bits/
+[p347sol]:https://leetcode.com/problems/top-k-frequent-elements/
+[p394sol]:https://leetcode.com/problems/decode-string/
+[p406sol]:https://leetcode.com/problems/queue-reconstruction-by-height/
+[p416sol]:https://leetcode.com/problems/partition-equal-subset-sum/
+[p437sol]:https://leetcode.com/problems/path-sum-iii/
+[p438sol]:https://leetcode.com/problems/find-all-anagrams-in-a-string/
+[p448sol]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[p494sol]:https://leetcode.com/problems/target-sum/
+[p543sol]:https://leetcode.com/problems/diameter-of-binary-tree/
+[p560sol]:https://leetcode.com/problems/subarray-sum-equals-k/
+[p581sol]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+[p617sol]:https://leetcode.com/problems/merge-two-binary-trees/
+[p621sol]:https://leetcode.com/problems/task-scheduler/
+[p647sol]:https://leetcode.com/problems/palindromic-substrings/
+[p739sol]:https://leetcode.com/problems/daily-temperatures/
