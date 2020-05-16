@@ -95,12 +95,12 @@
 |438|[Find All Anagrams in a String][p438]                         |[C++][p438sol]    |Medium      |Hash Table
 |448|[Find All Numbers Disappeared in an Array][p448]              |[C++][p448sol]    |Easy        |Array
 |494|[Target Sum][p494]                                            |[C++][p494sol]    |Medium      |DFS
-|543|[Diameter of Binary Tree][p543]                               |[C++][p534sol]    |Easy        |Recursion
-|560|[Subarray Sum Equals K][560]                                  |[C++][p560sol]    |Medium      |Hash Table
+|543|[Diameter of Binary Tree][p543]                               |[C++][p543sol]    |Easy        |Recursion
+|560|[Subarray Sum Equals K][p560]                                 |[C++][p560sol]    |Medium      |Hash Table
 |581|[Shortest Unsorted Continuous Subarray][p581]                 |[C++][p581sol]    |Easy        |Array
 |617|[Merge Two Binary Trees][p617]                                |[C++][p617sol]    |Easy        |Binary Tree
 |621|[Task Scheduler][p621]                                        |[C++][p621sol]    |Medium      |Array
-|647|[Palindromic Substrings][p547]                                |[C++][p547sol]    |Medium      |Dynamic Programming
+|647|[Palindromic Substrings][p647]                                |[C++][p647sol]    |Medium      |Dynamic Programming
 |739|[Daily Temperatures][p739]                                    |[C++][p739sol]    |Medium      |Hash Table
 
 [p1]: https://leetcode.com/problems/two-sum/
@@ -153,7 +153,7 @@
 [p128]:https://leetcode.com/problems/longest-consecutive-sequence/
 [p136]:https://leetcode.com/problems/single-number/
 [p138]:https://leetcode.com/problems/copy-list-with-random-pointer/
-
+[p139]:https://leetcode.com/problems/word-break/
 [p141]:https://leetcode.com/problems/linked-list-cycle/
 [p142]:https://leetcode.com/problems/linked-list-cycle-ii/
 [p146]:https://leetcode.com/problems/lru-cache/
@@ -257,54 +257,53 @@
 [p128sol]: ./Top%20100%20Liked%20Questions/128.%20Longest%20Consecutive%20Sequence.md
 [p136sol]: ./Top%20100%20Liked%20Questions/136.%20Single%20Number.md
 [p138sol]: ./Top%20100%20Liked%20Questions/138.%20Copy%20List%20with%20Random%20Pointer.md
-
-
-[p141sol]:https://leetcode.com/problems/linked-list-cycle/
-[p142sol]:https://leetcode.com/problems/linked-list-cycle-ii/
-[p146sol]:https://leetcode.com/problems/lru-cache/
-[p148sol]:https://leetcode.com/problems/sort-list/
-[p152sol]:https://leetcode.com/problems/maximum-product-subarray/
-[p155sol]:https://leetcode.com/problems/min-stack/
-[p160sol]:https://leetcode.com/problems/intersection-of-two-linked-lists/
-[p169sol]:https://leetcode.com/problems/majority-element/
-[p198sol]:https://leetcode.com/problems/house-robber/
-[p200sol]:https://leetcode.com/problems/number-of-islands/
-[p206sol]:https://leetcode.com/problems/reverse-linked-list/
-[p207sol]:https://leetcode.com/problems/course-schedule/
-[p208sol]:https://leetcode.com/problems/implement-trie-prefix-tree/
-[p215sol]:https://leetcode.com/problems/kth-largest-element-in-an-array/
-[p221sol]:https://leetcode.com/problems/maximal-square/
-[p226sol]:https://leetcode.com/problems/invert-binary-tree/
-[p234sol]:https://leetcode.com/problems/palindrome-linked-list/
-[p236sol]:https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-[p238sol]:https://leetcode.com/problems/product-of-array-except-self/
-[p239sol]:https://leetcode.com/problems/sliding-window-maximum/
-[p240sol]:https://leetcode.com/problems/search-a-2d-matrix-ii/
-[p253sol]:https://leetcode.com/problems/meeting-rooms-ii/
-[p279sol]:https://leetcode.com/problems/perfect-squares/
-[p283sol]:https://leetcode.com/problems/move-zeroes/
-[p287sol]:https://leetcode.com/problems/find-the-duplicate-number/
-[p295sol]:https://leetcode.com/problems/find-median-from-data-stream/
-[p297sol]:https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-[p300sol]:https://leetcode.com/problems/longest-increasing-subsequence/
-[p301sol]:https://leetcode.com/problems/remove-invalid-parentheses/
-[p309sol]:https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
-[p312sol]:https://leetcode.com/problems/burst-balloons/
-[p322sol]:https://leetcode.com/problems/coin-change/
-[p337sol]:https://leetcode.com/problems/house-robber-iii/
-[p338sol]:https://leetcode.com/problems/counting-bits/
-[p347sol]:https://leetcode.com/problems/top-k-frequent-elements/
-[p394sol]:https://leetcode.com/problems/decode-string/
-[p406sol]:https://leetcode.com/problems/queue-reconstruction-by-height/
-[p416sol]:https://leetcode.com/problems/partition-equal-subset-sum/
-[p437sol]:https://leetcode.com/problems/path-sum-iii/
-[p438sol]:https://leetcode.com/problems/find-all-anagrams-in-a-string/
-[p448sol]:https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
-[p494sol]:https://leetcode.com/problems/target-sum/
-[p543sol]:https://leetcode.com/problems/diameter-of-binary-tree/
-[p560sol]:https://leetcode.com/problems/subarray-sum-equals-k/
-[p581sol]:https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
-[p617sol]:https://leetcode.com/problems/merge-two-binary-trees/
-[p621sol]:https://leetcode.com/problems/task-scheduler/
-[p647sol]:https://leetcode.com/problems/palindromic-substrings/
-[p739sol]:https://leetcode.com/problems/daily-temperatures/
+[p139sol]: ./Top%20100%20Liked%20Questions/139-word-break.cpp
+[p141sol]: ./Top%20100%20Liked%20Questions/141-linked-list-cycle.cpp
+[p142sol]: ./Top%20100%20Liked%20Questions/142-linked-list-cycle-ii.cpp
+[p146sol]: ./Top%20100%20Liked%20Questions/146-lru-cache.cpp
+[p148sol]: ./Top%20100%20Liked%20Questions/148-sort-list.cpp
+[p152sol]: ./Top%20100%20Liked%20Questions/152-maximum-product-subarray.cpp
+[p155sol]: ./Top%20100%20Liked%20Questions/155-min-stack.cpp
+[p160sol]: ./Top%20100%20Liked%20Questions/160-intersection-of-two-linked-lists.cpp
+[p169sol]: ./Top%20100%20Liked%20Questions/169-majority-element.cpp
+[p198sol]: ./Top%20100%20Liked%20Questions/198-house-robber.cpp
+[p200sol]: ./Top%20100%20Liked%20Questions/200-number-of-islands.cpp
+[p206sol]: ./Top%20100%20Liked%20Questions/206-reverse-linked-list.cpp
+[p207sol]: ./Top%20100%20Liked%20Questions/207-course-schedule.cpp
+[p208sol]: ./Top%20100%20Liked%20Questions/208-implement-trie-prefix-tree.cpp
+[p215sol]: ./Top%20100%20Liked%20Questions/215-kth-largest-element-in-an-array.cpp
+[p221sol]: ./Top%20100%20Liked%20Questions/221-maximal-square.cpp
+[p226sol]: ./Top%20100%20Liked%20Questions/226-invert-binary-tree.cpp
+[p234sol]: ./Top%20100%20Liked%20Questions/234-palindrome-linked-list.cpp
+[p236sol]: ./Top%20100%20Liked%20Questions/236-lowest-common-ancestor-of-a-binary-tree.cpp
+[p238sol]: ./Top%20100%20Liked%20Questions/238-product-of-array-except-self.cpp
+[p239sol]: ./Top%20100%20Liked%20Questions/239-sliding-window-maximum.cpp
+[p240sol]: ./Top%20100%20Liked%20Questions/240-search-a-2d-matrix-ii.cpp
+[p253sol]: ./Top%20100%20Liked%20Questions/253-meeting-rooms-ii.cpp
+[p279sol]: ./Top%20100%20Liked%20Questions/279-perfect-squares.cpp
+[p283sol]: ./Top%20100%20Liked%20Questions/283-move-zeroes.cpp
+[p287sol]: ./Top%20100%20Liked%20Questions/287-find-the-duplicate-number.cpp
+[p295sol]: ./Top%20100%20Liked%20Questions/295-find-median-from-data-stream.cpp
+[p297sol]: ./Top%20100%20Liked%20Questions/297-serialize-and-deserialize-binary-tree.cpp
+[p300sol]: ./Top%20100%20Liked%20Questions/300-longest-increasing-subsequence.cpp
+[p301sol]: ./Top%20100%20Liked%20Questions/301-remove-invalid-parentheses.cpp
+[p309sol]: ./Top%20100%20Liked%20Questions/309-best-time-to-buy-and-sell-stock-with-cooldown.cpp
+[p312sol]: ./Top%20100%20Liked%20Questions/312-burst-balloons.cpp
+[p322sol]: ./Top%20100%20Liked%20Questions/322-coin-change.cpp
+[p337sol]: ./Top%20100%20Liked%20Questions/337-house-robber-iii.cpp
+[p338sol]: ./Top%20100%20Liked%20Questions/338-counting-bits.cpp
+[p347sol]: ./Top%20100%20Liked%20Questions/347-top-k-frequent-elements.cpp
+[p394sol]: ./Top%20100%20Liked%20Questions/394-decode-string.cpp
+[p406sol]: ./Top%20100%20Liked%20Questions/406-queue-reconstruction-by-height.cpp
+[p416sol]: ./Top%20100%20Liked%20Questions/416-partition-equal-subset-sum.cpp
+[p437sol]: ./Top%20100%20Liked%20Questions/437-path-sum-iii.cpp
+[p438sol]: ./Top%20100%20Liked%20Questions/438-find-all-anagrams-in-a-string.cpp
+[p448sol]: ./Top%20100%20Liked%20Questions/448-find-all-numbers-disappeared-in-an-array.cpp
+[p494sol]: ./Top%20100%20Liked%20Questions/494-target-sum.cpp
+[p543sol]: ./Top%20100%20Liked%20Questions/543-diameter-of-binary-tree.cpp
+[p560sol]: ./Top%20100%20Liked%20Questions/560-subarray-sum-equals-k.cpp
+[p581sol]: ./Top%20100%20Liked%20Questions/581-shortest-unsorted-continuous-subarray.cpp
+[p617sol]: ./Top%20100%20Liked%20Questions/617-merge-two-binary-trees.cpp
+[p621sol]: ./Top%20100%20Liked%20Questions/621-task-scheduler.cpp
+[p647sol]: ./Top%20100%20Liked%20Questions/647-palindromic-substrings.cpp
+[p739sol]: ./Top%20100%20Liked%20Questions/739-daily-temperatures.cpp
