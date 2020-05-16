@@ -259,8 +259,8 @@
 [p138sol]: ./Top%20100%20Liked%20Questions/138.%20Copy%20List%20with%20Random%20Pointer.md
 [p139sol]: ./Top%20100%20Liked%20Questions/139-word-break.cpp
 [p141sol]: ./Top%20100%20Liked%20Questions/141-linked-list-cycle.cpp
-[p142sol]: ./Top%20100%20Liked%20Questions/142-linked-list-cycle-ii.cpp
-[p146sol]: ./Top%20100%20Liked%20Questions/146-lru-cache.cpp
+[p142sol]: ./Top%20100%20Liked%20Questions/142-linked-list-cycle-II.cpp
+[p146sol]: ./Top%20100%20Liked%20Questions/146-LRU-cache.cpp
 [p148sol]: ./Top%20100%20Liked%20Questions/148-sort-list.cpp
 [p152sol]: ./Top%20100%20Liked%20Questions/152-maximum-product-subarray.cpp
 [p155sol]: ./Top%20100%20Liked%20Questions/155-min-stack.cpp
